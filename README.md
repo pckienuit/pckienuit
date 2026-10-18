@@ -20,9 +20,22 @@ Currently an engineering intern at **Bosch Global Software Technologies Vietnam*
 
 ### Toolkit
 
+<p>
+  <img src="python.svg" alt="Python" title="Python" width="32" height="32">&nbsp;
+  <img src="flutter.svg" alt="Flutter" title="Flutter" width="32" height="32">&nbsp;
+  <img src="nodejs.svg" alt="Node.js" title="Node.js" width="32" height="32">&nbsp;
+  <img src="pytorch.svg" alt="PyTorch" title="PyTorch" width="32" height="32">&nbsp;
+  <img src="linux.svg" alt="Linux" title="Linux" width="32" height="32">&nbsp;
+  <img src="docker.svg" alt="Docker" title="Docker" width="32" height="32">&nbsp;
+  <img src="git.svg" alt="Git" title="Git" width="32" height="32">&nbsp;
+  <img src="figma.svg" alt="Figma" title="Figma" width="32" height="32">
+</p>
+
 **Software:** Flutter, Dart, Python, Node.js, REST APIs, SQL  
 **AI & embedded:** PyTorch, ONNX, FastAPI, C/C++, STM32, Linux  
 **Design & delivery:** Figma, Git, Docker, API testing, test automation
+
+[Get in touch](mailto:phanchikien@gmail.com) for software, AI, embedded systems or product design work.
 
 I prefer clear constraints, observable behavior and a working slice before abstraction.
 
