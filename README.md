@@ -1,4 +1,5 @@
 <picture>
+  <source media="(max-width: 600px)" srcset="blueprint-mobile.png">
   <source media="(prefers-reduced-motion: reduce)" srcset="blueprint.png">
   <img src="blueprint.gif" alt="Phan Chi Kien, Computer Engineering at UIT. Five areas: AI, Embedded, Software, UX and QA." width="1200">
 </picture>
